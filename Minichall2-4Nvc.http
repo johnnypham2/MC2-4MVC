@@ -1,0 +1,6 @@
+@Minichall2_4Nvc_HostAddress = http://localhost:5155
+
+GET {{Minichall2_4Nvc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
