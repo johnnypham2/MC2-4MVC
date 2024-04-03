@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Minichall2-4Nvc.props" />
+</Project>
