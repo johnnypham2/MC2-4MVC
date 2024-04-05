@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minichall2-4Nvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+502745d142b7be18ea4404d9ba699a56d24ccb66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a23315206a3614997d7de8755e191c04e38fd7f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minichall2-4Nvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minichall2-4Nvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
